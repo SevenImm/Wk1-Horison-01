@@ -27,3 +27,11 @@ Added comments to "Index.Html" with these respective changes. Corrected most Div
 
 # Citation
 Pavlik, V. (2022). Semantic HTML: What It Is and How to Use It Correctly. Semrush Blog. https://www.semrush.com/blog/semantic-html5-guide/#html-semantic-tags-for-text
+
+
+# Screenshots:
+## Comments:
+![Alt text](image.png)
+
+## Website:
+![Alt text](image-1.png)
