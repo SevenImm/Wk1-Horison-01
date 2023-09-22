@@ -31,7 +31,7 @@ Pavlik, V. (2022). Semantic HTML: What It Is and How to Use It Correctly. Semrus
 
 # Screenshots:
 ## Comments:
-![Alt text](image.png)
+![Alt text](./assets/images/image.png)
 
 ## Website:
-![Alt text](image-1.png)
+![Alt text](./assets/images/image-1.png)
